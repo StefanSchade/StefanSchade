@@ -1,3 +1,6 @@
+![Alt abc](/img.jpg?raw=true "Optional Title")
+
+
 <table>
     <tr>
         <th>Col 1</th>
@@ -28,13 +31,13 @@
 abc
 
 
-| Tables        | Are           | Cool  |
+| Tables        | Are           | Coolx  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned<br>abc<br>multiple lines in this <br> table cell | $1600 |
 
 
 
-| Tables        | Are           | Cool  |
+| Tables        | Are           | Coolxx  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
