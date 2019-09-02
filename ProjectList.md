@@ -1,3 +1,33 @@
+<table>
+    <tr>
+        <th>Col 1</th>
+        <th>Col 2</th>
+        <th>Col 3</th>
+    </tr>
+    <tr>
+        <td colspan="2">span 2 cols</td>
+        <td rowspan="2">span 2 rows</td>
+    </tr>
+    <tr>
+        <td>stuff</td>
+        <td>stuff</td>
+    </tr>
+</table>​
+
+
+
+| One     | Two        | Three   | Four          | 
+| ------------- |-------------| ---------| ------------- |
+| One                | Two               | Three          | Four                |
+
+| One     | Two        | Three   | Four          | 
+| ------------- |-------------| ---------| ------------- |
+| Span Across ||||
+
+
+abc
+
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned<br>abc<br>multiple lines in this <br> table cell | $1600 |
@@ -47,5 +77,24 @@
   </tbody>
 </table>
 
+htm with colspan
+
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
+
+md colspan
+
+|||:Header 1|:Header 2|:Header 3|:Header 4
+|| Row 1 .. |  |  |  
+|| Row 2 .. |  Test
+|| Row 3 .. |  |  |  
+|| Row 4 .. |  |  |  
 
 
