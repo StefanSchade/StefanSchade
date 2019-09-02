@@ -2,7 +2,7 @@
 
 1. a [link **bold**](https://github.com/StefanSchade/StefanSchade/new/master#header-1)
 
-b [link **project list **](ProjectList.md)
+[a relative link](ProjectList.md)
 
 
 
