@@ -31,6 +31,14 @@ a notes for my own reference.
 #### Scala
 
 
+### Standards
+
+#### XML
+
+
+
+### Tools
+
 ### Tools and Technologies
 
 These repositories showcase certain programming languages and collect demo implementations as well 
