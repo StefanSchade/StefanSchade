@@ -2,8 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdf0e58b-c3d1-47f0-9dc9-3fc230172906" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/PersonalInfo.md" beforeDir="false" afterPath="$PROJECT_DIR$/PersonalInfo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profilbild-freigestellt.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/profilbild-freigestellt.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/StefanSchade_01.xcf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/StefanSchade_01_TransparentBG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/StefanSchade_01_WhitetBG.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/StefanSchade_01_org.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/MainPage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/ProjectList.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal/WorkExperience.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repos-frameworks-technologies/repos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repos-language-specific/repos.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repos-lectures/repos.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PersonalInfo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilbild-freigestellt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilbild-freigestellt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilbild-freigestellt.xcf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilbild-transparent.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/profilbild-transparent2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/provilbild.jpg" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,22 +30,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/provilbild.jpg">
+        <entry file="file://$PROJECT_DIR$/images/StefanSchade_01_TransparentBG.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PersonalInfo.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/StefanSchade_01_WhitetBG.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/personal/MainPage.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="33" selection-start-column="33" selection-end-column="33" />
+              <first_editor relative-caret-position="228">
+                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -35,11 +57,52 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="665">
-                <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+              <first_editor relative-caret-position="190">
+                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repos-lectures/repos.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="95">
+                <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repos-frameworks-technologies/repos.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="114">
+                <caret line="6" selection-start-line="6" selection-end-line="6" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/repos-language-specific/repos.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="437">
+                <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -54,8 +117,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/PersonalInfo.md" />
+        <option value="$PROJECT_DIR$/Myself.md" />
+        <option value="$PROJECT_DIR$/StefanSchade.md" />
+        <option value="$PROJECT_DIR$/Personal/StefanSchade.md" />
+        <option value="$PROJECT_DIR$/Personal/WorkExperience.md" />
+        <option value="$PROJECT_DIR$/Personal/ProjectList.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Personal/MainPage.md" />
+        <option value="$PROJECT_DIR$/repos-frameworks-technologies/repos.md" />
+        <option value="$PROJECT_DIR$/repos-language-specific/repos.md" />
+        <option value="$PROJECT_DIR$/repos-lectures/repos.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -75,11 +148,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1956" />
-    <option name="y" value="124" />
-    <option name="width" value="1646" />
-    <option name="height" value="853" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -87,14 +160,39 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="CatdeaLogs" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="MyGitSpace" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyGitSpace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyGitSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyGitSpace" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyGitSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyGitSpace" type="462c0819:PsiDirectoryNode" />
+              <item name="personal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyGitSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyGitSpace" type="462c0819:PsiDirectoryNode" />
+              <item name="repos-frameworks-technologies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyGitSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyGitSpace" type="462c0819:PsiDirectoryNode" />
+              <item name="repos-language-specific" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyGitSpace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyGitSpace" type="462c0819:PsiDirectoryNode" />
+              <item name="repos-lectures" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -103,11 +201,21 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\schades\Documents\CLONE\MyGitSpace\Personal" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\schades\Documents\CLONE\MyGitSpace" />
+      <recent name="C:\Users\schades\Documents\CLONE\MyGitSpace\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,10 +243,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1956" y="124" width="1646" height="853" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25283733" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18869936" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -169,21 +277,100 @@
     <entry file="file://$PROJECT_DIR$/provilbild.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/personal/WorkExperience.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="665">
-            <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <first_editor>
+            <caret column="24" selection-start-column="24" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PersonalInfo.md">
+    <entry file="file://$PROJECT_DIR$/personal/ProjectList.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="33" selection-start-column="33" selection-end-column="33" />
+            <caret column="8" selection-start-column="8" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonalInfo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profilbild-freigestellt.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/StefanSchade_01_WhitetBG.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/StefanSchade_01_TransparentBG.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos-language-specific/repos.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="437">
+            <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal/MainPage.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="228">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos-frameworks-technologies/repos.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="114">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos-lectures/repos.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="95">
+            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="190">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           </first_editor>
           <second_editor />
         </state>
