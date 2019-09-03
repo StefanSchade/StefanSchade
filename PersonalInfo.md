@@ -1,4 +1,4 @@
-<img src="image01.jpg">
+<img src="profilbild-freigestellt.png">
 
 <table>
   <tbody>
