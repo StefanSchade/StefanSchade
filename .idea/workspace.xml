@@ -27,7 +27,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor>
-                <caret column="32" selection-start-column="32" selection-end-column="32" />
+                <caret column="33" selection-start-column="33" selection-end-column="33" />
               </first_editor>
               <second_editor />
             </state>
@@ -183,7 +183,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
-            <caret column="32" selection-start-column="32" selection-end-column="32" />
+            <caret column="33" selection-start-column="33" selection-end-column="33" />
           </first_editor>
           <second_editor />
         </state>
