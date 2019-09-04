@@ -14,17 +14,19 @@ I love my job and feel like a kid left in a candy shop!
 * Clean Code
 * Machine Learning
 * Web Technologies
-* DevOps & [SRE](www.amazon.com)
+* DevOps & [SRE](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=sr_1_1?__mk_de_DE=ÅMÅŽÕÑ&crid=3LVBHR23HLOXU&keywords=site+reliability+engineering+book)
 * Agile Project Management
 * Physical Simulations
 
 ### Professional Experience
 
+* [Education](Education.md)
 * [Work experience](WorkExperience.md)
 * [List of projects](ProjectList.md)
 
 ### Certifications
 
-* __2017__ Project Management Level D with GPM / ...
+* __2017__ Project Management [Level D](https://www.gpm-ipma.de/zertifizierung/projektmanager/ipma_level_d.html) 
+with [GPM / IPMA](https://www.gpm-ipma.de/startseite.html)
 
 
