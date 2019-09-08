@@ -1,6 +1,7 @@
 ### Java
 
-* Collection of notes and small showcases for core Java topics including related technologies (e.g. XML)
+* small [showcases](https://github.com/StefanSchade/Java-Code-Examples) for core Java topics
+* Wiki on technologies (e.g. XML, HTTP)
 
 * The [text adventure implemented in Java](https://github.com/StefanSchade/Java-AdventureGame.git) serves these objectives: 
   * showcase  [core java features](Link to wiki), [design patterns](https://raw.githubusercontent.com/wiki/StefanSchade/Java-AdventureGame/SEU.asciidoc), 
