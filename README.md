@@ -9,34 +9,58 @@ and an overview about my repos:
 * **General Development Wikis:**
   * [Developer Manual]()
   * [Tool Wiki](https://github.com/StefanSchade/development-tools/wiki)
+
 <!--
+
 * **Language Specific Wikis:**
   * Assembly Language
   * C / C++
   * Ruby
   * Python
-  * Kotlin --->
+  * Kotlin 
+  
+  -->
+  
+  * **Programming Wikis**
+    * Java Core Language Features
+    * Java Web Services
+    * Presentation and UI
+    * Other Programming Languages
+    *  
+  
+  
 * **Core Java Wikis** 
+  * Reflection
   * Generics 
   * [Functional Programming](https://github.com/StefanSchade/Java-Core-Functional-Programing/wiki)
   * [JVM Performance Tuning](https://github.com/StefanSchade/Java-Core-JVM-Performance/wiki)
+  * Unit-Testing
   * Java FX
   * Clean Coding
+
 <!--
+
     * Collections
     * IO & NIO 
     * Networking 
-    * Concurrency--->
-* **Java Web Apps Wikis**
+    * Concurrency
+    
+ -->
+ 
+* **Java Webservice Wikis**
   * Swing
   * J2EE
+  * Testing Robo Framework
+  * Testing Selenium
+
 <!--
+
   * Other Languages Basics
     * Haskel
     * Closjure
     * Erlang
     
-* Frontend Wikis:    
+* Presentation Wikis:
   * HTML & CSS
    * HTML
    * CSS
@@ -44,7 +68,10 @@ and an overview about my repos:
     * Basics
     * NodeJS  
   * Java UI
-    * Java Swing -->
+    * Java Swing 
+    * J
+    
+ -->
 
   
 <!--
@@ -64,20 +91,19 @@ and an overview about my repos:
 
 
 <!--
+
 * [language specific projects](repos-language-specific/repos.md)
 * [technological showcases](repos-frameworks-technologies/repos.md)
 * [lecture notes](repos-lectures/repos.md)
 * [dev tool wiki](https://raw.githubusercontent.com/wiki/StefanSchade/Java-AdventureGame/DevelopmentProcess/DevEnv.adoc)
 
-
-
-forks of public projects I contributed to
-* abc
-* def
 -->
 
-Most of my repos contain both a code repository and a wiki. the Distinction between Wikis and repositories indicates 
-which of the two is the focus of the respective repo
+The repos are work in progress, particulary the wikis are used continuously to capture my own notes. They are not meant
+to be polished blog type presentations.
+
+Most of my repos contain both a code repository and a wiki. the Distinction between wiki and repository indicates 
+which of the two is the focus of the respective repo. 
 
 Please be aware that beside my [main profile](https://github.com/StefanSchade) I keep 
 [a second profile](https://github.com/StefanSchadeDev) to simulate the colaboration process.
