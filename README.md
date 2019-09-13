@@ -1,109 +1,88 @@
-##My GitHub Activity
+# My GitHub Activity
 
-some information about [myself](personal/MainPage.md) 
-and an overview about my repos:  
+Some information about [myself](personal/MainPage.md) and the repos on my [GitHubSite](https://github.com/StefanSchade).
+Everything is work in progress. 
+
+## DevOps-Topics
 
 
+* **DevOps related Books**
+  * Accelerate
+  * SRE 
 
- 
-* **General Development Wikis:**
+* **Tools & Technologies**
+  * Jenkins
+  * Container: 
+    * Docker
+    * Kubernetes
+
+## Open Projects
+        
+* **Development Resources:**
   * [Developer Manual]()
-  * [Tool Wiki](https://github.com/StefanSchade/development-tools/wiki)
+  * [Development Environment](https://github.com/StefanSchade/development-tools/wiki)
 
-<!--
+* **Repositories:**
+  * Java Text Adventure 
+  * Physical Simulation Libraries: Front-End, Kernel  
+  * Physical Simulations Applications:
+    * Physikalische Simulationen mit dem Personalcomputer (1993)  
 
-* **Language Specific Wikis:**
-  * Assembly Language
+## Wikis 
+ 
+The wikis just consist of my own notes on the respective topic, they are not edited as polished blogs or tutorials.
+Please be advised that also the wikis might contain code repositories.  
+
+* **Best Practices:**
+  * Clean Coding
+  * Design Patterns
+  * Algorithms & Data Structures
+
+* **Programming Languages:**
+  * Assembly
   * C / C++
   * Ruby
   * Python
   * Kotlin 
+  * Haskel
+  * Closjure
+  * Erlang
   
-  -->
-  
-  * **Programming Wikis**
-    * Java Core Language Features
-    * Java Web Services
-    * Presentation and UI
-    * Other Programming Languages
-    *  
-  
-  
-* **Core Java Wikis** 
-  * Reflection
-  * Generics 
+* **Core Java** 
+  * Reflection / Annotations https://docs.oracle.com/javase/tutorial/java/annotations/index.html
+  * [Generics](https://github.com/StefanSchade/Java-Core-Generics/wiki)
   * [Functional Programming](https://github.com/StefanSchade/Java-Core-Functional-Programing/wiki)
-  * [JVM Performance Tuning](https://github.com/StefanSchade/Java-Core-JVM-Performance/wiki)
+  * Collections
+  * IO & NIO 
+  * Concurrency
+  * Networking 
   * Unit-Testing
-  * Java FX
-  * Clean Coding
-
-<!--
-
-    * Collections
-    * IO & NIO 
-    * Networking 
-    * Concurrency
+  * [JVM Performance Tuning](https://github.com/StefanSchade/Java-Core-JVM-Performance/wiki)
+  * UI: JavaFX, Java Swing
     
- -->
- 
-* **Java Webservice Wikis**
-  * Swing
-  * J2EE
-  * Testing Robo Framework
-  * Testing Selenium
+* **Java Webservices:**
+  * General Webservices: REST-API, XML
+  * Frameworks: Spring, J2EE
+  * Testing: Robo-Framework, Selenium, Cucumber
 
-<!--
-
-  * Other Languages Basics
-    * Haskel
-    * Closjure
-    * Erlang
-    
-* Presentation Wikis:
+* **Web Frontend:**
   * HTML & CSS
-   * HTML
-   * CSS
-  * Javascript
-    * Basics
-    * NodeJS  
-  * Java UI
-    * Java Swing 
-    * J
+  * Javascript, NodeJS
     
- -->
+* **Tools & Technologies**
+  * Build-Tools: Maven, Gradle
+  * VCS: GIT
+  * BigData: Hadoop, Apache Spark
+    
 
-  
-<!--
-* Project Repositories
-  * Physical Simulations (FrontLib)  
-  * Physical Simulations (BackLib)  
-  * Physical Simulations Applications
-    * Book1  --->
-  * Development Projects
-    * [Java Adventure Game](https://github.com/StefanSchade/Java-AdventureGame)
-    * Java Algorithms and Data Structures
+## My Contributions to other Repos
 
   * Forked Repos
     * a
     * b
     * c
 
-
-<!--
-
-* [language specific projects](repos-language-specific/repos.md)
-* [technological showcases](repos-frameworks-technologies/repos.md)
-* [lecture notes](repos-lectures/repos.md)
-* [dev tool wiki](https://raw.githubusercontent.com/wiki/StefanSchade/Java-AdventureGame/DevelopmentProcess/DevEnv.adoc)
-
--->
-
-The repos are work in progress, particulary the wikis are used continuously to capture my own notes. They are not meant
-to be polished blog type presentations.
-
-Most of my repos contain both a code repository and a wiki. the Distinction between wiki and repository indicates 
-which of the two is the focus of the respective repo. 
+---
 
 Please be aware that beside my [main profile](https://github.com/StefanSchade) I keep 
 [a second profile](https://github.com/StefanSchadeDev) to simulate the colaboration process.
