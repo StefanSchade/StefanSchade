@@ -11,6 +11,9 @@ Everything is work in progress.
   * SRE 
 
 * **Tools & Technologies**
+  * IDE: [IntelliJ]
+  * Build-Tools: [Maven](https://github.com/StefanSchade/Tools-Build-Maven/wiki), [Gradle](https://github.com/StefanSchade/Tool-Build-Gradle/wiki)
+  * VCS: [GIT](https://github.com/StefanSchade/Tool-VCS-GIT/wiki)
   * Jenkins
   * Container: 
     * Docker
@@ -34,35 +37,37 @@ The wikis just consist of my own notes on the respective topic, they are not edi
 Please be advised that also the wikis might contain code repositories.  
 
 * **Best Practices:**
-  * Clean Coding
-  * Design Patterns
-  * Algorithms & Data Structures
+  * [Clean Coding](https://github.com/StefanSchade/BestPractice-CleanCode/wiki)
+  * [Design Patterns](https://github.com/StefanSchade/BestPractice-DesignPatterns/wiki)
+  * [Algorithms & Data Structures](https://github.com/StefanSchade/BestPractice-Algorithms-DataStructures/wiki)
+  * Test Driven Design (TDD)
+  * Domain Driven Design (DDD)
 
 * **Programming Languages:**
   * Assembly
   * C / C++
-  * Ruby
   * Python
-  * Kotlin 
   * Haskel
+  * Erlang  
   * Closjure
-  * Erlang
-  
-* **Core Java** 
-  * Reflection / Annotations https://docs.oracle.com/javase/tutorial/java/annotations/index.html
-  * [Generics](https://github.com/StefanSchade/Java-Core-Generics/wiki)
-  * [Functional Programming](https://github.com/StefanSchade/Java-Core-Functional-Programing/wiki)
-  * Collections
-  * IO & NIO 
-  * Concurrency
-  * Networking 
-  * Unit-Testing
-  * [JVM Performance Tuning](https://github.com/StefanSchade/Java-Core-JVM-Performance/wiki)
-  * UI: JavaFX, Java Swing
+  * Ruby
+  * Kotlin []
+  * **Java** 
+    * [Reflection](https://github.com/StefanSchade/Java-Core-Reflection/wiki) / [Annotations](https://github.com/StefanSchade/Java-Core-Annotations/wiki)
+    * [Generics](https://github.com/StefanSchade/Java-Core-Generics/wiki)
+    * [Collections Framework](https://github.com/StefanSchade/Java-Core-Collection/wiki)
+    * [Functional Programming](https://github.com/StefanSchade/Java-Core-Functional-Programing/wiki)
+    * [Concurrency](https://github.com/StefanSchade/Java-Core-Concurrency/wiki)
+    * [IO](https://github.com/StefanSchade/Java-Core-IO/wiki) & [NIO](https://github.com/StefanSchade/Java-Core-NIO/wiki) 
+    * [Networking](https://github.com/StefanSchade/Java-Core-Networking/wiki) 
+    * Logging: [JUL](https://github.com/StefanSchade/Java-Logging-JUL/wiki), Log4J
+    * UI: [JavaFX](https://github.com/StefanSchade/Java-UI-FX/wiki), Java Swing
+    * [Unit-Testing](https://github.com/StefanSchade/Java-Unit-Testing/wiki)
+    * [JVM Performance Tuning](https://github.com/StefanSchade/Java-Core-JVM-Performance/wiki)
     
-* **Java Webservices:**
+* **Webservices:**
   * General Webservices: REST-API, XML
-  * Frameworks: Spring, J2EE
+  * Java Frameworks: [Spring](https://github.com/StefanSchade/Java-Web-Spring/wiki), [J2EE](https://github.com/StefanSchade/Java-Web-J2EE/wiki)
   * Testing: Robo-Framework, Selenium, Cucumber
 
 * **Web Frontend:**
@@ -70,10 +75,11 @@ Please be advised that also the wikis might contain code repositories.
   * Javascript, NodeJS
     
 * **Tools & Technologies**
-  * Build-Tools: Maven, Gradle
-  * VCS: GIT
   * BigData: Hadoop, Apache Spark
+  * Networking
     
+* Useful tricks
+  * [Home Network](https://github.com/StefanSchade/home-network-useful-hints/wiki)
 
 ## My Contributions to other Repos
 
