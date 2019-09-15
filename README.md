@@ -13,7 +13,7 @@ Everything is work in progress.
 * **Tools & Technologies**
   * IDE: [IntelliJ](https://github.com/StefanSchade/IDE-IntelliJ/wiki)
   * Build-Tools: [Maven](https://github.com/StefanSchade/Tools-Build-Maven/wiki), [Gradle](https://github.com/StefanSchade/Tool-Build-Gradle/wiki)
-  * VCS: [GIT](https://github.com/StefanSchade/Tool-VCS-GIT/wiki)
+  * VCS: [GIT](https://github.com/StefanSchade/Tool-VCS-GIT/wiki), [GitHub](https://github.com/StefanSchade/Tool-VCS-GitHub/wiki)
   * Jenkins
   * Container: 
     * Docker
@@ -54,7 +54,7 @@ Please be advised that also the wikis might contain code repositories.
   * Closjure
   * Ruby
   * Kotlin
-  * **Java** 
+  * [Java] 
     * [Small Issues](https://github.com/StefanSchade/Java-Core-Small-Issues/wiki): 
     [var keyword (Java 10)](https://github.com/StefanSchade/Java-Core-Small-Issues/wiki/The-var-keyword-in-Java-10),
     Numbers in Java
@@ -76,12 +76,12 @@ Please be advised that also the wikis might contain code repositories.
   * General Webservices: REST-API, XML
   * Java Frameworks: [Spring](https://github.com/StefanSchade/Java-Web-Spring/wiki), [J2EE](https://github.com/StefanSchade/Java-Web-J2EE/wiki)
   * Testing: Robo-Framework, Selenium, Cucumber
+  * Microservices
 
 
 * **Web Frontend:**
   * HTML & CSS
   * Javascript, NodeJS
-
     
 * **Tools & Technologies**
   * BigData: Hadoop, Apache Spark
