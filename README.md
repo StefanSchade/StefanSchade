@@ -54,7 +54,7 @@ Please be advised that also the wikis might contain code repositories.
   * Closjure
   * Ruby
   * Kotlin
-  * [Java](./Java-Wikis/Java-Wikis.md)
+  * [Java](Java-Wikis/Java-Wikis.md)
     * [Small Issues](https://github.com/StefanSchade/Java-Core-Small-Issues/wiki): 
     [var keyword (Java 10)](https://github.com/StefanSchade/Java-Core-Small-Issues/wiki/The-var-keyword-in-Java-10),
     Numbers in Java
