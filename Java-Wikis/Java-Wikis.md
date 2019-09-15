@@ -1,7 +1,6 @@
-<p align="right">
+<p align="center">
   <img src="../images/java03.png" height="100"/>
 </p>
-
 
 These are some Wikis on Java topics, which I keep for my own reference:
 
@@ -21,5 +20,3 @@ These are some Wikis on Java topics, which I keep for my own reference:
   * [Unit-Testing](https://github.com/StefanSchade/Java-Unit-Testing/wiki)
   * [JVM Basics](https://github.com/StefanSchade/Java-Core-JVM-Basics/wiki)
   * [JVM Performance Tuning](https://github.com/StefanSchade/Java-Core-JVM-Performance/wiki)
-
-    
