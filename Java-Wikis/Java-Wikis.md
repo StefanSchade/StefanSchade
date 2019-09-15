@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="../images/java03.png" height="100"/>
-</p>
+<img src="../images/java03.png" height="100"/>
 
 These are some Wikis on Java topics, which I keep for my own reference:
 
