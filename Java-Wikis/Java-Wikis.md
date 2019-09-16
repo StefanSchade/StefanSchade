@@ -17,17 +17,5 @@ These are some Wikis on Java topics, which I keep for my own reference:
   * UI: [JavaFX](https://github.com/StefanSchade/Java-UI-FX/wiki), Java Swing
   * [Unit-Testing](https://github.com/StefanSchade/Java-Unit-Testing/wiki)
   * [JVM Basics](https://github.com/StefanSchade/Java-Core-JVM-Basics/wiki)
-<<<<<<< HEAD
   * [JVM Performance Tuning](https://github.com/StefanSchade/Java-Core-JVM-Performance/wiki)
-=======
-  * [JVM Performance Tuning](https://github.com/StefanSchade/Java-Core-JVM-Performance/wiki)
-<style type="text/css">
-.image-left {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  float: right;
-}
-</style>
-    
->>>>>>> bd96c1edd88422ba25837a7e514092eee2bb816a
+

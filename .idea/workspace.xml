@@ -31,7 +31,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="228">
-                <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+                <caret line="12" selection-start-line="12" selection-end-line="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -59,8 +59,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="285">
-                <caret line="50" column="10" lean-forward="true" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+              <first_editor relative-caret-position="950">
+                <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -71,8 +71,8 @@
         <entry file="file://$PROJECT_DIR$/Java-Wikis/Java-Wikis.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="19">
-                <caret line="1" selection-start-line="1" selection-end-line="1" />
+              <first_editor relative-caret-position="399">
+                <caret line="21" selection-start-line="21" selection-end-line="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -177,6 +177,7 @@
     </navigator>
     <panes>
       <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -214,13 +215,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Java-Core-Generics-Source" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -272,7 +272,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21481876" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21695095" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -355,11 +355,28 @@
     <entry file="file://$PROJECT_DIR$/PersonalInfo.md" />
     <entry file="file://$PROJECT_DIR$/profilbild-freigestellt.jpg" />
     <entry file="file://$PROJECT_DIR$/log" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/images/StefanSchade_01_TransparentBG.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/images/StefanSchade_01_WhitetBG.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/personal/MainPage.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="228">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/personal/ProjectList.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -373,6 +390,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="950">
+            <caret line="50" column="10" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/repos-lectures/repos.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -394,13 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/repos-language-specific/repos.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -411,31 +431,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/personal/MainPage.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="228">
-            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="50" column="10" lean-forward="true" selection-start-line="50" selection-start-column="10" selection-end-line="50" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Java-Wikis/Java-Wikis.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="19">
-            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <first_editor relative-caret-position="399">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
           </first_editor>
           <second_editor />
         </state>
