@@ -27,7 +27,7 @@ Everything is work in progress.
   * [Development Environment](https://github.com/StefanSchade/development-tools/wiki)
 
 * **Repositories:**
-  * Java Text Adventure 
+  * [Java Text Adventure](https://github.com/StefanSchade/Java-AdventureGame)
   * Physical Simulation Libraries: Front-End, Kernel  
   * Physical Simulations Applications:
     * Physikalische Simulationen mit dem Personalcomputer (1993)  
@@ -57,7 +57,7 @@ Please be advised that also the wikis might contain code repositories.
   * [Java](Java-Wikis/Java-Wikis.md)
     
 * **Webservices:**
-  * [General Webservices](https://github.com/StefanSchade/Webservices/wiki): REST-API, XML
+  * [General Webservices](https://github.com/StefanSchade/Webservices/wiki): REST-API, [XML](https://github.com/StefanSchade/XML/wiki)
   * Java Frameworks: [Spring](https://github.com/StefanSchade/Java-Web-Spring/wiki), [J2EE](https://github.com/StefanSchade/Java-Web-J2EE/wiki)
   * Testing: Robo-Framework, Selenium, Cucumber
   * Microservices
