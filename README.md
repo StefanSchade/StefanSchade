@@ -58,7 +58,7 @@ Please be advised that also the wikis might contain code repositories.
     
 * **Webservices:**
   * [General Webservices](https://github.com/StefanSchade/Webservices/wiki): REST-API, [XML](https://github.com/StefanSchade/XML/wiki)
-  * Java Frameworks: [Spring](https://github.com/StefanSchade/Java-Web-Spring/wiki), [J2EE](https://github.com/StefanSchade/Java-Web-J2EE/wiki)
+  * Java Frameworks: [Spring-Framework](https://github.com/StefanSchade/Java-Web-Spring/wiki), [Java Enterprise Edition (JEE)](https://github.com/StefanSchade/Java-Web-J2EE/wiki)
   * Testing: Robo-Framework, Selenium, Cucumber
   * Microservices
 
