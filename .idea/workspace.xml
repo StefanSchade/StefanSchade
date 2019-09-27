@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cdf0e58b-c3d1-47f0-9dc9-3fc230172906" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java-Wikis/Java-Wikis.md" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Wikis/Java-Wikis.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,12 +17,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="304">
-                <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+              <first_editor relative-caret-position="382">
+                <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
               </first_editor>
               <second_editor />
             </state>
@@ -69,12 +70,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Java-Wikis/Java-Wikis.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="399">
-                <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <first_editor relative-caret-position="285">
+                <caret line="15" column="212" selection-start-line="15" selection-start-column="212" selection-end-line="15" selection-end-column="212" />
               </first_editor>
               <second_editor />
             </state>
@@ -128,6 +129,8 @@
       <find>xml</find>
       <find>text</find>
       <find>J2E</find>
+      <find>test</find>
+      <find>ssl</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -149,9 +152,9 @@
         <option value="$PROJECT_DIR$/personal/MainPage.md" />
         <option value="$PROJECT_DIR$/repos-language-specific/repos.md" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
-        <option value="$PROJECT_DIR$/Java-Wikis/Java-Wikis.md" />
         <option value="$PROJECT_DIR$/../Excel XML, XPath and XSLT Workflows/02-XML Essentials/3-Elements/Completed/Tours.xml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Java-Wikis/Java-Wikis.md" />
       </list>
     </option>
   </component>
@@ -182,8 +185,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -278,7 +281,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22547974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23560767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -414,6 +417,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="382">
+            <caret line="47" column="18" selection-start-line="47" selection-start-column="18" selection-end-line="47" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../Excel XML, XPath and XSLT Workflows/02-XML Essentials/4-Attributes/Completed/Tours.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -421,6 +434,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
           <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Excel XML, XPath and XSLT Workflows/02-XML Essentials/12-Overview of XML schemas/Staff.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="103" />
         </state>
       </provider>
     </entry>
@@ -435,16 +455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java-Wikis/Java-Wikis.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="399">
-            <caret line="21" selection-start-line="21" selection-end-line="21" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -478,18 +488,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Excel XML, XPath and XSLT Workflows/02-XML Essentials/12-Overview of XML schemas/Staff.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Java-Wikis/Java-Wikis.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="304">
-            <caret line="60" column="38" selection-start-line="60" selection-start-column="38" selection-end-line="60" selection-end-column="38" />
+          <first_editor relative-caret-position="285">
+            <caret line="15" column="212" selection-start-line="15" selection-start-column="212" selection-end-line="15" selection-end-column="212" />
           </first_editor>
           <second_editor />
         </state>

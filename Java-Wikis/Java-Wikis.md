@@ -13,7 +13,7 @@ These are some Wikis on Java topics, which I keep for my own reference:
   * [Concurrency](https://github.com/StefanSchade/Java-Core-Concurrency/wiki)
   * [IO](https://github.com/StefanSchade/Java-Core-IO/wiki) & [NIO](https://github.com/StefanSchade/Java-Core-NIO/wiki) 
   * [Networking](https://github.com/StefanSchade/Java-Core-Networking/wiki)
-  * Logging: [JUL](https://github.com/StefanSchade/Java-Logging-JUL/wiki), Log4J
+  * Logging: [JUL](https://github.com/StefanSchade/Java-Logging-JUL/wiki), Log4J  [Logback](https://github.com/StefanSchade/Java-logging-logback/wiki) [SLF4](https://github.com/StefanSchade/Java-logging-SLF4/wiki)
   * UI: [JavaFX](https://github.com/StefanSchade/Java-UI-FX/wiki), Java Swing
   * [Unit-Testing](https://github.com/StefanSchade/Java-Unit-Testing/wiki)
   * [JVM Basics](https://github.com/StefanSchade/Java-Core-JVM-Basics/wiki)

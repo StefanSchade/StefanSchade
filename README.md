@@ -59,8 +59,8 @@ Please be advised that also the wikis might contain code repositories.
 * **Webservices:**
   * [General Webservices](https://github.com/StefanSchade/Webservices/wiki): REST-API, [XML](https://github.com/StefanSchade/XML/wiki)
   * Java Frameworks: [Spring-Framework](https://github.com/StefanSchade/Java-Web-Spring/wiki), [Java Enterprise Edition (JEE)](https://github.com/StefanSchade/Java-Web-J2EE/wiki)
-  * Testing: Robo-Framework, Selenium, Cucumber
-  * Microservices
+  * Testing: [Junit](https://github.com/StefanSchade/testing-java-junit/wiki)[Junit5](https://github.com/StefanSchade/testing-java-junit5/wiki), Robo-Framework, Selenium, Cucumber
+  * [Microservices](https://github.com/StefanSchade/microservices/wiki)
 
 
 * **Web Frontend:**
@@ -69,7 +69,8 @@ Please be advised that also the wikis might contain code repositories.
     
 * **Tools & Technologies**
   * BigData: Hadoop, Apache Spark
-  * Networking
+  * Networking ([SSL](https://github.com/StefanSchade/tools-ssl/wiki/_new), [HTTP](https://github.com/StefanSchade/tools-http/wiki))
+  
     
 * Useful tricks
   * [Home Network](https://github.com/StefanSchade/home-network-useful-hints/wiki)
