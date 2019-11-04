@@ -8,6 +8,7 @@ Everything is work in progress.
 * **DevOps related Books**
   * Accelerate
   * SRE 
+ 
 
 
 * **Tools & Technologies**
@@ -25,6 +26,7 @@ Everything is work in progress.
 * **Development Resources:**
   * [Developer Manual]()
   * [Development Environment](https://github.com/StefanSchade/development-tools/wiki)
+  * [UML](https://github.com/StefanSchade/uml/wiki)
 
 * **Repositories:**
   * [Java Text Adventure](https://github.com/StefanSchade/Java-AdventureGame)
@@ -59,12 +61,12 @@ Please be advised that also the wikis might contain code repositories.
 * **Webservices:**
   * [General Webservices](https://github.com/StefanSchade/Webservices/wiki): REST-API, [XML](https://github.com/StefanSchade/XML/wiki)
   * Java Frameworks: [Spring-Framework](https://github.com/StefanSchade/Java-Web-Spring/wiki), [Java Enterprise Edition (JEE)](https://github.com/StefanSchade/Java-Web-J2EE/wiki)
-  * Testing: [Junit](https://github.com/StefanSchade/testing-java-junit/wiki)[Junit5](https://github.com/StefanSchade/testing-java-junit5/wiki), Robo-Framework, Selenium, Cucumber
+  * Testing: [Junit](https://github.com/StefanSchade/testing-java-junit/wiki)[Junit5](https://github.com/StefanSchade/testing-java-junit5/wiki), Robo-Framework, [Selenium](https://github.com/StefanSchade/java-testing-selenium/wiki), Cucumber
   * [Microservices](https://github.com/StefanSchade/microservices/wiki)
 
 
 * **Web Frontend:**
-  * HTML & CSS
+  * [HTML & CSS](https://github.com/StefanSchade/html-and-css/wiki)
   * Javascript, NodeJS
     
 * **Tools & Technologies**
